@@ -62,7 +62,7 @@
 -----
 |Weeks|Topics|Assignments|
 |:---:|:---:|:---:|
-|Week 1|귀납적 구조를 정의하는 법, OCaml을 활용한 함수형 프로그래밍|Assignment 1, 2|
+|Week 1|귀납적 구조를 정의하는 법, OCaml을 활용한 함수형 프로그래밍|[Assignment 1](https://classroom.github.com/a/-ZucFpOD), 2|
 |Week 2|인터프리터 만들기: 식(Expressions)||
 |Week 3|인터프리터 만들기: 함수(Procedures), 유효범위 규칙(Scoping Rules)||
 |Week 4|인터프리터 만들기: 상태(States), 재귀함수(Recursive Functions)|Assignment 3|
