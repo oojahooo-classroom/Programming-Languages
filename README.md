@@ -55,11 +55,11 @@
 ## Schedule (Tentative)
 |Weeks|Topics|Assignments|
 |:---:|:---:|:---:|
-|Week 1|귀납적 구조를 정의하는 법, OCaml을 활용한 함수형 프로그래밍|[Assignment 1](https://classroom.github.com/a/-ZucFpOD), [2](https://classroom.github.com/a/m7O-j0zq)|
-|Week 2|인터프리터 만들기: 식(Expressions)||
-|Week 3|인터프리터 만들기: 함수(Procedures), 유효범위 규칙(Scoping Rules)||
-|Week 4|인터프리터 만들기: 상태(States), 재귀함수(Recursive Functions)|Assignment 3|
-|Week 5|더 나은 인터프리터 만들기: 쓰레기 수집(Garbage Collections), 간단한 타입 체계(Type System)|Assignment 4|
-|Week 6|더 나은 인터프리터 만들기: 타입 추론(Type Inference)||
-|Week 7|더 나은 인터프리터 만들기: 다형적 타입 추론(Polymorphic Type System)|Assignment 5|
+|Week 1|귀납적 구조를 정의하는 법, Ocaml 기초|[Assignment 1](https://classroom.github.com/a/-ZucFpOD)|
+|Week 2|OCaml을 활용한 함수형 프로그래밍|[Assignment 2](https://classroom.github.com/a/m7O-j0zq)|
+|Week 3|인터프리터 만들기: 식(Expressions), 함수(Procedures)||
+|Week 4|인터프리터 만들기: 재귀함수(Recursion), 유효범위 규칙(Scoping Rules)|Assignment 3|
+|Week 5|인터프리터 만들기: 상태(States), 포인터(Pointers)|Assignment 4|
+|Week 6|더 나은 인터프리터 만들기: 간단한 타입 체계(Type System)||
+|Week 7|더 나은 인터프리터 만들기: 타입 추론(Type Inference)|Assignment 5|
 |Week 8|마무리: 람다 칼큘러스(Lambda Calculus), 그래서 왜 PL인가?||
