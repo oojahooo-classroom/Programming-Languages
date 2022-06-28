@@ -4,7 +4,7 @@
 
 ## Logistics
 - Tutor: [Jaeho Kim](https://oojahooo.github.io) (oojahooo@gmail.com)
-- Time: 매주 월, 목 저녁 (자세한 시간 미정, 월: 2시간 이론, 목: 2시간 보충 또는 실습)
+- Time: 매주 월, 목 저녁 (자세한 시간 미정, 월: 2시간 이론, 목: 1시간 보충 또는 실습)
 - Location: 정보관 (대면, 자세한 장소는 확정 후 공지 예정)
 
 ## Abstract
