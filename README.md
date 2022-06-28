@@ -4,8 +4,8 @@
 
 ## Logistics
 - Tutor: [Jaeho Kim](https://oojahooo.github.io) (oojahooo@gmail.com)
-- Time: TBD
-- Location: TBD (대면 희망)
+- Time: 매주 월, 목 저녁 (자세한 시간 미정, 화: 2시간 이론, 목: 2시간 실습)
+- Location: TBD (대면 희망, 정보관 강의실 예상)
 
 ## Abstract
 프로그래밍 언어는 왜 언어일까?
