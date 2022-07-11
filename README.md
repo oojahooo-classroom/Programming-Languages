@@ -55,8 +55,8 @@
 ## Schedule (Tentative)
 |Weeks|Topics|Lecture Videos|Assignments|
 |:---:|:---:|:---:|:---:|
-|Week 1|귀납적 구조를 정의하는 법, Ocaml 기초|[1-1](https://youtu.be/6_7SOjb13DE), 1-2|[Assignment 1](https://classroom.github.com/a/-ZucFpOD)|
-|Week 2|OCaml을 활용한 함수형 프로그래밍|2-1, 2-2|[Assignment 2](https://classroom.github.com/a/m7O-j0zq)|
+|Week 1|귀납적 구조를 정의하는 법, Ocaml 기초|[1-1](https://youtu.be/6_7SOjb13DE), [1-2](https://youtu.be/qrL-4JyL1i0)|[Assignment 1](https://classroom.github.com/a/-ZucFpOD)|
+|Week 2|OCaml을 활용한 함수형 프로그래밍|[2-1](https://youtu.be/54rwCzb0Qxg), 2-2|[Assignment 2](https://classroom.github.com/a/m7O-j0zq)|
 |Week 3|인터프리터 만들기: 식(Expressions), 함수(Procedures)|3-1, 3-2||
 |Week 4|인터프리터 만들기: 재귀함수(Recursion), 유효범위 규칙(Scoping Rules)|4-1, 4-2|[Assignment 3](https://classroom.github.com/a/FhJhhdbN)|
 |Week 5|인터프리터 만들기: 상태(States), 포인터(Pointers)|5-1, 5-2|Assignment 4|
